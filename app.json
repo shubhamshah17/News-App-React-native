@@ -24,9 +24,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.shubham.newsapp",
-      "enableDangerousExperimentalLeanBuilds": true,
-      "enableProguardInReleaseBuilds" : true      
+      "package": "com.shubham.newsapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
